@@ -13,7 +13,7 @@ The results were then generated using the following command:
 Rscript src/make-plot.R
 ```
 
-The initial input data and the combined dataframe are in `data` and the results are in `out`.
+The initial input data and the combined data frame are in `data` and the results are in `out`.
 
 DATA
 ====
