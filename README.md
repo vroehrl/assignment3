@@ -1,4 +1,4 @@
-Repository description 
+Average rainfall in Melbourne and Oxford  
 ====
 
 This repository contains an analysis of the monthly average rainfall in Melbourne and Oxford between 1855-2015.
