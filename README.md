@@ -1,3 +1,6 @@
+Repository description 
+====
+
 This repository contains an analysis of the monthly average rainfall in Melbourne and Oxford between 1855-2015.
 
 To run this analysis, the two data frames were first combined using the following command:
